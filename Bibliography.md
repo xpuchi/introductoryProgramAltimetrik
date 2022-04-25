@@ -21,3 +21,9 @@ Squash / Merge / Rebase
 
 Git branching strategies
 - https://www.bmc.com/blogs/devops-branching-strategies/
+
+#### HTML
+- https://www.w3schools.com/html/html_form_input_types.asp
+- https://byjus.com/free-ias-prep/difference-between-xml-and-html/
+- https://developer.mozilla.org/
+
