@@ -22,6 +22,13 @@ Squash / Merge / Rebase
 Git branching strategies
 - https://www.bmc.com/blogs/devops-branching-strategies/
 
+#### JavaScript
+- https://www.devopsschool.com/blog/arithmetic-operators-in-javascript/
+- https://www.w3schools.com/js/js_syntax.asp
+- https://www.javascripttutorial.net/what-is-javascript/
+- https://www.w3schools.com/js/js_functions.asp
+- https://www.w3schools.com/js/js_booleans.asp
+
 #### HTML
 - https://www.w3schools.com/html/html_form_input_types.asp
 - https://byjus.com/free-ias-prep/difference-between-xml-and-html/
