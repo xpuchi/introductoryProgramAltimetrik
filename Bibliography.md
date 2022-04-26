@@ -28,6 +28,7 @@ Git branching strategies
 - https://www.javascripttutorial.net/what-is-javascript/
 - https://www.w3schools.com/js/js_functions.asp
 - https://www.w3schools.com/js/js_booleans.asp
+- https://www.dummies.com/article/technology/programming-web-design/javascript/javascript-for-dummies-cheat-sheet-207619/
 
 #### HTML
 - https://www.w3schools.com/html/html_form_input_types.asp
