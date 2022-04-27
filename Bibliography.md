@@ -1,4 +1,5 @@
 Here's the bibliography used in the Documentation:
+--
 
 #### Agile Methodologies and SCRUM:
 - https://www.cprime.com/resources/what-is-agile-what-is-scrum/
@@ -18,6 +19,7 @@ Squash / Merge / Rebase
 - https://www.loginradius.com/blog/engineering/git-rebase-vs-git-merge/
 - https://medium.com/swlh/squash-and-rebase-git-basics-5cb1be1e0dac
 - https://www.git-tower.com/learn/git/faq/git-squash
+- https://www.youtube.com/watch?v=RwvTrSm7zEY
 
 Git branching strategies
 - https://www.bmc.com/blogs/devops-branching-strategies/
