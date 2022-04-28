@@ -36,4 +36,5 @@ Git branching strategies
 - https://www.w3schools.com/html/html_form_input_types.asp
 - https://byjus.com/free-ias-prep/difference-between-xml-and-html/
 - https://developer.mozilla.org/
-
+- http://web-accessibility.carnegiemuseums.org/foundations/semantic/
+- 
