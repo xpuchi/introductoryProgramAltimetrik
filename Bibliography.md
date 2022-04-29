@@ -37,4 +37,8 @@ Git branching strategies
 - https://byjus.com/free-ias-prep/difference-between-xml-and-html/
 - https://developer.mozilla.org/
 - http://web-accessibility.carnegiemuseums.org/foundations/semantic/
+
+#### SEO and DOM
+- https://moz.com/learn/seo/what-is-seo
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - 
