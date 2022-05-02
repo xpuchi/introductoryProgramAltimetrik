@@ -41,4 +41,14 @@ Git branching strategies
 #### SEO and DOM
 - https://moz.com/learn/seo/what-is-seo
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-- 
+- https://w3schools.sinsixx.com/htmldom/
+- https://www.w3schools.com/jsref/dom_obj_all.asp
+
+#### Hoisting
+- https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+- https://www.w3schools.com/js/js_hoisting.asp
+#### Scope
+- https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript
+#### Strict
+- https://www.w3schools.com/js/js_strict.asp
+- https://www.geeksforgeeks.org/strict-mode-javascript/
