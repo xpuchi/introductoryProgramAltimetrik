@@ -52,3 +52,9 @@ Git branching strategies
 #### Strict
 - https://www.w3schools.com/js/js_strict.asp
 - https://www.geeksforgeeks.org/strict-mode-javascript/
+
+#### CSS
+- https://www.w3schools.com/css/
+- https://www.w3schools.com/css/css_boxmodel.asp
+- https://jacob-kagon.medium.com/the-css-box-model-5bec034a91c4
+- 
