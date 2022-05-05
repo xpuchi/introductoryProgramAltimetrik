@@ -61,3 +61,9 @@ Git branching strategies
 Em, rem, px
 - https://www.youtube.com/watch?v=-GR52czEd-0
 - https://www.w3schools.com/cssref/css_units.asp
+
+Positioning
+- https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/
+- https://www.w3schools.com/css/css_positioning.asp
+- https://css-tricks.com/almanac/properties/p/position/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/position
