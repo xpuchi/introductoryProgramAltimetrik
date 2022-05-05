@@ -57,4 +57,7 @@ Git branching strategies
 - https://www.w3schools.com/css/
 - https://www.w3schools.com/css/css_boxmodel.asp
 - https://jacob-kagon.medium.com/the-css-box-model-5bec034a91c4
-- 
+
+Em, rem, px
+- https://www.youtube.com/watch?v=-GR52czEd-0
+- https://www.w3schools.com/cssref/css_units.asp
