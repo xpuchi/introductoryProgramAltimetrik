@@ -70,4 +70,13 @@ Positioning
 
 Layout
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout
-- 
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://www.w3schools.com/css/css3_flexbox.asp
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout
+
+Frameworks
+- https://materializecss.com/
+- https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+
