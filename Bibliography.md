@@ -79,4 +79,6 @@ Frameworks
 - https://materializecss.com/
 - https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
-
+OOCSS
+- https://www.hongkiat.com/blog/basics-of-object-oriented-css/
+- https://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986
