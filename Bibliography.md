@@ -94,3 +94,11 @@ CSS Methodologies
 - https://www.javascripttutorial.net/javascript-fetch-api/
 - https://www.youtube.com/watch?v=wdvruTuWvW8
 - https://www.w3schools.com/xml/ajax_examples.asp
+
+#### Internet
+- https://www.kaspersky.com/resource-center/definitions/cookies
+- https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage
+- https://www.youtube.com/watch?v=GihQAC1I39Q
+- https://www.w3schools.com/tags/ref_httpmethods.asp
+- https://www.tutorialspoint.com/http/http_overview.htm
+- 
