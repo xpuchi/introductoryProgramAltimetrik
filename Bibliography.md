@@ -32,6 +32,17 @@ Git branching strategies
 - https://www.w3schools.com/js/js_booleans.asp
 - https://www.dummies.com/article/technology/programming-web-design/javascript/javascript-for-dummies-cheat-sheet-207619/
 
+Hoisting
+- https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+- https://www.w3schools.com/js/js_hoisting.asp
+
+Scope
+- https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript
+
+Strict
+- https://www.w3schools.com/js/js_strict.asp
+- https://www.geeksforgeeks.org/strict-mode-javascript/
+
 #### HTML
 - https://www.w3schools.com/html/html_form_input_types.asp
 - https://byjus.com/free-ias-prep/difference-between-xml-and-html/
@@ -43,15 +54,6 @@ Git branching strategies
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - https://w3schools.sinsixx.com/htmldom/
 - https://www.w3schools.com/jsref/dom_obj_all.asp
-
-#### Hoisting
-- https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-- https://www.w3schools.com/js/js_hoisting.asp
-#### Scope
-- https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript
-#### Strict
-- https://www.w3schools.com/js/js_strict.asp
-- https://www.geeksforgeeks.org/strict-mode-javascript/
 
 #### CSS
 - https://www.w3schools.com/css/
@@ -75,13 +77,20 @@ Layout
 - https://css-tricks.com/snippets/css/complete-guide-grid/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout
 
-Frameworks
+CSS Frameworks
 - https://materializecss.com/
 - https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
-Methodologies
+CSS Methodologies
 - https://www.hongkiat.com/blog/basics-of-object-oriented-css/
 - https://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986
 - http://smacss.com/
 - http://getbem.com/
 - https://www.toptal.com/css/smacss-scalable-modular-architecture-css
+
+#### Fetch API & AJAX
+- https://www.oreilly.com/library/view/ajax-the-definitive/9780596528386/ch04.html
+- https://developer.mozilla.org/en-US/docs/Web/API/fetch
+- https://www.javascripttutorial.net/javascript-fetch-api/
+- https://www.youtube.com/watch?v=wdvruTuWvW8
+- https://www.w3schools.com/xml/ajax_examples.asp
