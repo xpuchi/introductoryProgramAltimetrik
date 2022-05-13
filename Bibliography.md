@@ -101,4 +101,7 @@ CSS Methodologies
 - https://www.youtube.com/watch?v=GihQAC1I39Q
 - https://www.w3schools.com/tags/ref_httpmethods.asp
 - https://www.tutorialspoint.com/http/http_overview.htm
-- 
+- https://somostechies.com/que-es-http2/
+- https://dev.to/techschoolguru/http-2-the-secret-weapon-of-grpc-32dk
+- https://http2.github.io/faq/#what-are-the-key-differences-to-http1x
+- https://www.cloudflare.com/learning/performance/what-is-http3/
