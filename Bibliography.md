@@ -105,3 +105,30 @@ CSS Methodologies
 - https://dev.to/techschoolguru/http-2-the-secret-weapon-of-grpc-32dk
 - https://http2.github.io/faq/#what-are-the-key-differences-to-http1x
 - https://www.cloudflare.com/learning/performance/what-is-http3/
+- https://www.akana.com/blog/what-is-jwt
+- https://www.youtube.com/watch?v=7Q17ubqLfaM
+- https://www.onelogin.com/learn/how-single-sign-on-works
+- https://auth0.com/intro-to-iam/what-is-oauth-2/
+
+#### DOM Events
+- https://www.tutorialspoint.com/html/html_events_ref.htm
+- https://javascript.info/bubbling-and-capturing
+
+#### CORS JSONP
+- https://www.youtube.com/watch?v=1d71HFapvpw
+- https://en.wikipedia.org/wiki/JSONP
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+- https://www.filecloud.com/blog/using-jsonp-for-cross-domain-requests/
+
+#### OOP
+- ttps://www.educative.io/blog/object-oriented-programming
+- https://en.wikipedia.org/wiki/Object-oriented_programming
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+- https://javascript.info/prototype-inheritance
+- https://www.javatpoint.com/javascript-oops-encapsulation
+
+
+SOLID
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+
