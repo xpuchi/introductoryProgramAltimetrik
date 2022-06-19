@@ -121,14 +121,36 @@ CSS Methodologies
 - https://www.filecloud.com/blog/using-jsonp-for-cross-domain-requests/
 
 #### OOP
-- ttps://www.educative.io/blog/object-oriented-programming
+- https://www.educative.io/blog/object-oriented-programming
 - https://en.wikipedia.org/wiki/Object-oriented_programming
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 - https://javascript.info/prototype-inheritance
 - https://www.javatpoint.com/javascript-oops-encapsulation
+- https://codesrealm.com/pillars-of-object-oriented-programming-encapsulation/
+- https://www.javascripttutorial.net/javascript-closure/
 
 
 SOLID
-https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+- https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+Asyncronous Javascript
+- https://www.programiz.com/javascript/promise
+- https://medium.com/@kavisha.talsania/top-10-es6-features-every-javascript-developer-must-know-4c81ec54bbcd
+- https://www.programiz.com/javascript/async-await
+
+CORS JSONP
+- https://www.youtube.com/watch?v=1d71HFapvpw
+- https://en.wikipedia.org/wiki/JSONP
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+- https://www.filecloud.com/blog/using-jsonp-for-cross-domain-requests/
+
+Security
+- https://www.synopsys.com/glossary/what-is-owasp-top-10.html
+- https://www.cloudflare.com/learning/ddos/glossary/denial-of-service/
+- https://www.cloudflare.com/learning/bots/brute-force-attack/
+- https://www.cloudflare.com/learning/security/threats/cross-site-scripting/
+- https://www.cloudflare.com/learning/access-management/what-is-multi-factor-authentication/
+
+
 
 
